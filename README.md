@@ -1,8 +1,10 @@
-# Software-III
-* Prueba *
-** Hola Susy **
-## Si pudiste
+ install.packages("rmarkdown")
 
-Tarea Nacho
-#Commits
-*Uno más
+    install.packages("ggplot2")
+
+    install.packages("devtools")
+
+    a <- installed.packages()
+
+    view(a)
+    
