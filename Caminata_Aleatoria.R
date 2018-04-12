@@ -18,3 +18,7 @@ while (z>=3 && z<=10) {
 print("Se realizaron"); print(contador); print("pasos")
 y[contador+1]<- z
 y
+
+for (i in vector) {
+  
+}
